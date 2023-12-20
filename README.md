@@ -1,1 +1,1 @@
-Although its a end to end project, but I was to lazy to provide the deployment details :)
+Although its a end to end project, but I was too lazy to provide the deployment details :)
